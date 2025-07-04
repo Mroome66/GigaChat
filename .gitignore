@@ -1,0 +1,29 @@
+# Конфиденциальные данные
+.env
+*.secret
+config.ini
+
+# Временные файлы Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Логи и дампы
+*.log
+*.sqlite3
+
+# Файлы операционных систем
+.DS_Store  # Mac
+Thumbs.db  # Windows
